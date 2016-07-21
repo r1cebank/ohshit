@@ -1,3 +1,3 @@
 # shit happened
 
-When shit happened in your code.
+When shit happened in your code. Please do not use.
